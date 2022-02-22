@@ -1,3 +1,0 @@
-1. First time for creating lib : cargo new libhello --lib
-2. For building lib : cargo build
-3. 
